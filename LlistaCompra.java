@@ -28,6 +28,10 @@ public class LlistaCompra {
         llista.add("Gelat de vainilla");
         llista.add("Gelat de xocolata");
         llista.add("Gelat de maduixa");
+        llista.add("Samarreta de Batman");
+        llista.add("Samarreta de Superman");
+        llista.add("Samarreta de Spiderman");
+        
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
