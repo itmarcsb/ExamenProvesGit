@@ -25,6 +25,13 @@ public class LlistaCompra {
         llista.add("DVD Superman");
         llista.add("DVD Spiderman");
         llista.add("Pepino");
+        llista.add("Gelat de vainilla");
+        llista.add("Gelat de xocolata");
+        llista.add("Gelat de maduixa");
+        llista.add("Samarreta de Batman");
+        llista.add("Samarreta de Superman");
+        llista.add("Samarreta de Spiderman");
+        
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
