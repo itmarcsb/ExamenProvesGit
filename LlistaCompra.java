@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package examenprovesgit;
+package llistaCompra;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,6 +21,9 @@ public class LlistaCompra {
         llista.add("Ous");
         llista.add("Formatge");
         llista.add("Tomàquets");
+        llista.add("DVD Batman");
+        llista.add("DVD Superman");
+        llista.add("DVD Spiderman");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
