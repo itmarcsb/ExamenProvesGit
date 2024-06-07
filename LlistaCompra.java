@@ -24,6 +24,7 @@ public class LlistaCompra {
         llista.add("DVD Batman");
         llista.add("DVD Superman");
         llista.add("DVD Spiderman");
+        llista.add("Pepino");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
